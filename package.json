@@ -18,8 +18,9 @@
   "homepage": "https://github.com/Kado168/Codipedia#readme",
   "dependencies": {
     "pkg": "^3.0.4"
-  }
+  },
   "engines": {
     "node": "4.2.6"
   }
+}
 }
