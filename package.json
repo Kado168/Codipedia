@@ -1,25 +1,3 @@
 {
-  "name": "repo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "test.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kado168/Codipedia.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kado168/Codipedia/issues"
-  },
-  "homepage": "https://github.com/Kado168/Codipedia#readme",
-  "dependencies": {
-    "pkg": "^3.0.4"
-  },
-  "engines": {
-    "node": "4.2.6"
-  }
+  "name": "hello-world"
 }
